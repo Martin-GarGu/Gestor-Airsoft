@@ -23,7 +23,7 @@ Este proyecto fue desarrollado como parte de DAM con el objetivo de poner en pr√
 
 1. Clona este repositorio.
 2. Abre la soluci√≥n en Microsoft Visual Studio 2022.
-3. Realizar las migraciones.
+3. Realiza las migraciones.
 4. Ejecuta el proyecto.
 
 ## Aprendizajes
